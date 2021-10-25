@@ -4,6 +4,6 @@ The requirement is to understand how much will be the increase on collection of 
 the collections agents. 
 
 ## Approach:
-A monthly feature is created to get the value of incentive received.  Simple linear regression is performed to see the impact of that variable on Collection amount. </br>
+A feature is created to store the value of monthly incentive received.  Simple linear regression is performed to see the impact of that variable on Collection amount. </br>
 95% Confidence interval is also provided to give the range of impact.
 
